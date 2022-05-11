@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>dev.abh1navv</groupId>
-    <artifactId>secret-char</artifactId>
+    <artifactId>secret-chat</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>secret-char</name>
-    <description>secret-char</description>
+    <name>secret-chat</name>
+    <description>secret-chat</description>
     <properties>
         <java.version>11</java.version>
     </properties>
